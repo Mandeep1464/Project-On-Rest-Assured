@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4758" started-at="2021-01-15T09:52:34Z" finished-at="2021-01-15T09:52:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4758" started-at="2021-01-15T09:52:34Z" finished-at="2021-01-15T09:52:39Z">
+      <class name="testexcutation.BaseClass">
+        <test-method status="PASS" signature="the_game_is_added()[pri:0, instance:testexcutation.BaseClass@10db82ae]" name="the_game_is_added" duration-ms="4097" started-at="2021-01-15T09:52:34Z" description="the Game is added" finished-at="2021-01-15T09:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- the_game_is_added -->
+        <test-method status="PASS" signature="finding_the_game_using_game_id()[pri:1, instance:testexcutation.BaseClass@10db82ae]" name="finding_the_game_using_game_id" duration-ms="102" started-at="2021-01-15T09:52:38Z" description="Finding the Game using GameID" finished-at="2021-01-15T09:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finding_the_game_using_game_id -->
+        <test-method status="PASS" signature="update_the_game()[pri:2, instance:testexcutation.BaseClass@10db82ae]" name="update_the_game" duration-ms="273" started-at="2021-01-15T09:52:38Z" description="Update the Game" finished-at="2021-01-15T09:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_the_game -->
+        <test-method status="PASS" signature="finding_the_game_using_gameId_After_Update()[pri:3, instance:testexcutation.BaseClass@10db82ae]" name="finding_the_game_using_gameId_After_Update" duration-ms="107" started-at="2021-01-15T09:52:38Z" description="Finding the Game using GameID" finished-at="2021-01-15T09:52:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finding_the_game_using_gameId_After_Update -->
+        <test-method status="PASS" signature="the_book_is_removed()[pri:4, instance:testexcutation.BaseClass@10db82ae]" name="the_book_is_removed" duration-ms="75" started-at="2021-01-15T09:52:39Z" description="the book is removed" finished-at="2021-01-15T09:52:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- the_book_is_removed -->
+      </class> <!-- testexcutation.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

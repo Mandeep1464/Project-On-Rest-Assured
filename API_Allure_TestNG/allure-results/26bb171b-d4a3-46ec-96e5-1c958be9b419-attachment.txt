@@ -1,0 +1,1 @@
+{"id":17,"name":"Super-man","releaseDate":"2021-01-13T05:37:30.804Z","reviewScore":7,"category":"Adventure","rating":"Universal"}
